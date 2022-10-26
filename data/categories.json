@@ -1,0 +1,37 @@
+[
+    {
+        "id": "01",
+        "name": "Speaking"
+
+    },
+    {
+        "id": "02",
+        "name": "Listening"
+
+    },
+    {
+        "id": "03",
+        "name": "Written"
+
+    },
+    {
+        "id": "04",
+        "name": "Instructor"
+
+    },
+    {
+        "id": "05",
+        "name": "Student Reviews"
+
+    },
+    {
+        "id": "06",
+        "name": "Courses Details"
+
+    },
+    {
+        "id": "01",
+        "name": "Practice Overview"
+
+    }
+]
